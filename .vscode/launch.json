@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IteratorTest",
+            "request": "launch",
+            "mainClass": "IteratorTest",
+            "projectName": "TempUtils_b0a0ccbb"
+        }
+    ]
+}
